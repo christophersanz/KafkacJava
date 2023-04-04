@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/KafkacJava.iml" filepath="$PROJECT_DIR$/.idea/KafkacJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka_consumer_cjava/kafka_consumer_cjava.iml" filepath="$PROJECT_DIR$/kafka_consumer_cjava/kafka_consumer_cjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka_service_cjava/kafka_service_cjava.iml" filepath="$PROJECT_DIR$/kafka_service_cjava/kafka_service_cjava.iml" />
+    </modules>
+  </component>
+</project>
